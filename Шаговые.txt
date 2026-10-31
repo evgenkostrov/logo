@@ -1,0 +1,22 @@
+Шаговый двигатель Lichuan LC57H3100 — это 3-фазный гибридный шаговый двигатель с замкнутым контуром (Easy Servo), предназначенный для станков с ЧПУ, 3D-принтеров и промышленной автоматики
+LCDA357H
+Комплект драйвера шагового двигателя Lichuan LCDA357H+LC57H380
+
+
+Соединительная муфта вала от 6 мм до 8 мм, длина 25 мм, диаметр 18 мм, алюминиевый сплав
+https://ozon.ru/t/GAlMSOW
+
+
+Драйвер шагового двигателя TMC2208 V2.0
+https://microkontroller.ru/arduino-projects/drajver-shagovogo-dvigatelya-tmc2208-i-kak-ego-podklyuchit-k-arduino/
+Драйвер шагового двигателя TMC2209 4.75-36В 2.5А для 3D-принтеров
+https://ozon.ru/t/cFweSbN
+FL28STH32‑0674   
+https://ozon.ru/t/dwCmdGC
+
+
+OK28STH32-0954B    может быть добавить энкодер
+11HS12-0674S       Шаговый двигатель NEMA11 (11HS12-0674S) Stepperonline
+jk28hs32-0674      https://ozon.ru/t/wErOGLc     https://aliexpress.ru/item/1005001769879516.html?sku_id=12000017498269601        
+28HD1411-02
+FL28STH45‑0674          https://electroprivod.ru/fl28sth.htm          https://electroprivod.ru/fixing_brackets.htm
