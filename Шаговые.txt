@@ -3,16 +3,30 @@ LCDA357H
 Комплект драйвера шагового двигателя Lichuan LCDA357H+LC57H380
 
 
+ленточный мини гриндер,станок для заточки
+https://www.wildberries.ru/catalog/995773234/feedbacks?imtId=330592516&size=1489780804
+Станок для заточки цепей
+Станок заточный многофункциональный СЗМ-65 Вихрь
 Соединительная муфта вала от 6 мм до 8 мм, длина 25 мм, диаметр 18 мм, алюминиевый сплав
 https://ozon.ru/t/GAlMSOW
+3 штуки. Соединительная муфта 5мм - 5мм, D19 L25, гибкая
 
 
 Драйвер шагового двигателя TMC2208 V2.0
 https://microkontroller.ru/arduino-projects/drajver-shagovogo-dvigatelya-tmc2208-i-kak-ego-podklyuchit-k-arduino/
+
 Драйвер шагового двигателя TMC2209 4.75-36В 2.5А для 3D-принтеров
-https://ozon.ru/t/cFweSbN
+https://ozon.ru/t/2zYaNKR
+
+Ардуино нано
+https://ozon.ru/t/CrDlMt3
+
+уровень нивелир
+https://ozon.ru/t/MnTqSEh
+
 FL28STH32‑0674   
 https://ozon.ru/t/dwCmdGC
+https://www.chipdip.ru/product/fl28sth32-0674a-5-20-fulling-motor-8075258846
 
 
 OK28STH32-0954B    может быть добавить энкодер
